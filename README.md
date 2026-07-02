@@ -1,12 +1,12 @@
 # 🛒 Implementasi Autentikasi - Week 13
 
-| 🔐 Login | Login dengan email & password |
-| 📝 Register | Registrasi user baru |
-| 🚪 Logout | Logout user |
-| 🌐 Login API | Login menggunakan Fake Store API |
-| 🛡️ Protected Route | Cart hanya bisa diakses user login |
-| 💾 Local Storage | Data user tersimpan di browser |
-| 🛒 Shopping Cart | Tambah/hapus produk |
+## 🎯 Tujuan Pembelajaran
+
+- ✅ Memahami konsep autentikasi dalam aplikasi React
+- ✅ Mengimplementasikan Login, Register, dan Logout dengan Redux
+- ✅ Melakukan proteksi rute (Protected Route)
+- ✅ Menyimpan data pengguna di Local Storage
+- ✅ Menggunakan API untuk autentikasi (Fake Store API)
 
 ---
 
