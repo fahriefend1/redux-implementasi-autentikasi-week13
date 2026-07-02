@@ -1,6 +1,6 @@
 # 🛒 Implementasi Autentikasi - Week 13
 
-Aplikasi React dengan Redux untuk implementasi autentikasi (Login, Register, Logout) dan proteksi rute.
+Aplikasi sederhana untuk belajar implementasi autentikasi (Login, Register, Logout) dan proteksi rute.
 
 ---
 
